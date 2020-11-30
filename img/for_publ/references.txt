@@ -1,0 +1,2 @@
+analytic-monitoring.jpg: https://softwareengineeringdaily.com/tag/monitoring/
+cloud-monitoring.jpeg: http://talkincloud.com/cloud-computing-management/20-cloud-monitoring-and-management-tools-which-are-best
